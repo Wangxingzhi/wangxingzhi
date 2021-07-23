@@ -102,8 +102,8 @@ page-mathjax: false
 
 # Friends
 friends: [
-    # {
-    #     title: "ZealCheng",
-    #     href: "https://blog.zealcheng.me"
-    # }
+     {
+         title: "ZealCheng",
+         href: "https://blog.zealcheng.me"
+     }
 ]
