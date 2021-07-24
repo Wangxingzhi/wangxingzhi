@@ -13,8 +13,8 @@ future: true
 
 # SNS settings
 RSS: false
-weibo_username:     yanshuo.io
-zhihu_username:     小王叔叔
+weibo_username:     646200238
+zhihu_username:     littlewang
 github_username:    Wangxingzhi
 # twitter_username:   Wangxingzhi
 # facebook_username:  Wangxingzhi
